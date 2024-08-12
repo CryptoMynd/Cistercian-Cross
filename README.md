@@ -1,0 +1,3 @@
+This is a font that layers over itself to create Cistercian numerals of both horizontal and vertical variety, with a maximum of eight numerals per character.
+This is done by mapping the numerical characters to a given row on the common keyboard, with the The vertical variety not requiring the use of capitalization or the shift key, and the horizontal variety requiring capitalization or the shift key.
+As an addendum to the license, not only is this readme text required to be included with all copies of the software, the copyright holder must approve all commercial use on any basis whether individual or group before any commercial use is permitted. Whether commercial use without compensation is permitted will be decided on an individual basis.
